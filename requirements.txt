@@ -1,0 +1,5 @@
+telethon==1.36.0
+requests==2.32.3
+python-dotenv==1.0.1
+tradingview-ta==3.3.0
+openpyxl==3.1.5
